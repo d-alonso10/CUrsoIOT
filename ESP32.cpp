@@ -18,5 +18,5 @@ void loop() {
   digitalWrite(amarillo,0);
   digitalWrite(rojo,1);
   delay(5000); // this speeds up the simulation
-  digitalWrite(rojo,0)
+  digitalWrite(rojo,0);
 }
